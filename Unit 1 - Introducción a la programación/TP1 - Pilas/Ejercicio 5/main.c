@@ -20,7 +20,7 @@ int main()
         system("cls");
         printf("CARGANDO PILA DADA... \n\n");
         leer(&dada);
-        printf("\nÂ¿Quieres seguir cargando la pila? s=SI / n=NO \n");
+        printf("\n¿Quieres seguir cargando la pila? s=SI / n=NO \n");
         fflush(stdin);
         continuar = getch();
 
