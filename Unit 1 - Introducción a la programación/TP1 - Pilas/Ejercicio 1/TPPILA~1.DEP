@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1584736260 source:c:\users\gabriel\desktop\prog. i - practicos\tp - pilas\tp pilas - ejercicio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112217 c:\users\gabriel\desktop\prog. i - practicos\tp - pilas\tp pilas - ejercicio 1\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1557362723 source:c:\users\gabriel\desktop\prog. i - practicos\tp - pilas\tp pilas - ejercicio 1\pila.c
+	"pila.h"
+
