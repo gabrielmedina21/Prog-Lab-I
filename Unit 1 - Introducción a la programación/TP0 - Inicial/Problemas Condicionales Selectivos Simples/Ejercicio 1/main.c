@@ -3,7 +3,7 @@
 
 int main()
 {
-    // DECLARAICON DE VARIABKES //
+    // DECLARAICON DE VARIABLES //
 
     int nota1 = 0;
     int nota2 = 0;
